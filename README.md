@@ -105,6 +105,6 @@ Automated test scripts will be added as part of the TripleTen QA Bootcamp automa
 
 This project is part of my QA portfolio, built during the [TripleTen QA Analyst Bootcamp](https://tripleten.com). I have a background in pharmacy QA and frontend development, and I'm transitioning into software QA.
 
-- **LinkedIn:** [linkedin.com/in/fernando-frigo](https://linkedin.com/in/fernando-frigo)
+- **LinkedIn:** [linkedin.com/in/fernando-frigo](https://www.linkedin.com/in/fernandorigo/)
 - **Jira project:** frigodev.atlassian.net (SauceDemo QA / SQ)
 - **Notion workspace:** available on request
